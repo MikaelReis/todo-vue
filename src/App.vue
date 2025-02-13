@@ -30,7 +30,7 @@ export default {
 
 <template>
   <div id="app">
-    <h1>Calculadora Aritmética</h1>
+    <h1>Calculadora Aritmética 1</h1>
     <div class="calculator">
       <input type="number" v-model="number1" placeholder="Número 1" />
       <select v-model="operation">
